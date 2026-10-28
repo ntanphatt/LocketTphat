@@ -34,8 +34,9 @@
                 <key>DNSProtocol</key>
                 <string>HTTPS</string>
 
+                <!-- ĐÃ ĐỔI SANG LINK UBLOCKDNS -->
                 <key>ServerURL</key>
-                <string>https://dns.nextdns.io/cf1478</string>
+                <string>https://my.ublockdns.com/qws0j3k5</string>
             </dict>
 
             <key>OnDemandRules</key>
